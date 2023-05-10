@@ -1,0 +1,141 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+header
+{
+    background-color: #353a40;
+    text-align: center;
+    justify-content: end;
+}
+
+.container-fluid
+{
+    background-color: #353a40;
+    margin: 0%;
+    align-items: center;
+    display: flex;
+    padding-left: 0%;
+    padding-right: 0%;
+    margin-top: -10px;
+    margin-bottom: -10px;
+    margin-left: -30px;
+}
+#conf
+{
+    color: white;
+}
+.navbar-brand
+{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    color: white;
+}
+
+.nav .nav-link
+{
+    color: white;
+}
+.tickets .nav-link
+{
+    color: green;
+}
+
+.carousel-caption
+{
+    color: white;
+    filter: brightness(100%);
+    position: absolute;
+    width: 550px;
+    margin-left: 500px;
+    margin-bottom: 200px;
+    text-align: right;
+    -webkit-filter: opacity(100%);
+   
+}
+
+.btn-outline-light
+{
+    color: white;
+    width: 380px;
+    height: 50px;
+    font-size: 15px;
+    margin-right: 20px;
+}
+
+.button-buy
+{
+background-color: green;
+border-radius: 5px;
+border: none;
+color: white;
+width: 380px;
+height: 50px;
+font-size: 15px;
+}
+
+.container-fluid1
+{
+background-color: #1f5271;
+list-style-type: none;
+width: auto;
+height: 100px;
+}
+
+.col-6
+{
+    background-color: (53,58,64);
+    color: white;
+}
+
+.container-fluid2
+{
+    align-content: center;
+    background-color: red;
+
+}
+.nav-footer
+{
+    justify-content: center;
+    text-align: center;
+}
+.nav-footer .nav-link
+{
+    margin-top: 30px;
+    color: white;
+}
+.col-6
+{
+    text-align: left;
+    text-align: start;
+}
+.col-sm-6
+{
+    text-align: left;
+}
+
+.button-send
+{
+    background-color: #96c93e;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    height: 40px;
+    font-size: 20px;
+}
+
+.raised-block {
+    background-color: #353a40;
+    color: white;
+    margin-bottom: 0;
+    margin-left: -1.5rem;
+    margin-right: -0.625rem;
+    padding-left: 0.625rem;
+    padding-right: 0.9rem;
+    padding-top: 15px;
+}
+
+
+
